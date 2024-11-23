@@ -38,7 +38,7 @@ Key Management: The encryption key (key.key) is stored in the same directory. Ma
 
 ## SCREENSHOTS
 ![Starting_screen](https://raw.githubusercontent.com/Kasperk-sudo/Password-Manager-with-Cryptography/refs/heads/main/Screenshots/Screenshot%202024-11-22%20200330.png)
-1[Info_screen](https://raw.githubusercontent.com/Kasperk-sudo/Password-Manager-with-Cryptography/refs/heads/main/Screenshots/Screenshot%202024-11-22%20200401.png)
+![Info_screen](https://raw.githubusercontent.com/Kasperk-sudo/Password-Manager-with-Cryptography/refs/heads/main/Screenshots/Screenshot%202024-11-22%20200401.png)
 ![saved_info_screen](https://raw.githubusercontent.com/Kasperk-sudo/Password-Manager-with-Cryptography/refs/heads/main/Screenshots/Screenshot%202024-11-22%20200418.png)
 ![data.txt_screen](https://raw.githubusercontent.com/Kasperk-sudo/Password-Manager-with-Cryptography/refs/heads/main/Screenshots/Screenshot%202024-11-22%20200436.png)
 ![Retrieved_password_screen](https://raw.githubusercontent.com/Kasperk-sudo/Password-Manager-with-Cryptography/refs/heads/main/Screenshots/Screenshot%202024-11-22%20200459.png)
