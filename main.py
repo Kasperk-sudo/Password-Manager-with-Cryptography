@@ -40,6 +40,8 @@ def retrieve_password():
                         title="Password Retrieved",
                         message=f"Website{web}\nEmail: {user}\nPassword: {dec_pass}"
                     )
+                    pyperclip.copy(dec_pass)
+
                     return
             messagebox.showerror("Error", "No details for the website found.")
 
